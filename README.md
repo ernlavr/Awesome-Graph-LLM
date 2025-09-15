@@ -30,6 +30,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 ## Datasets, Benchmarks & Surveys
 - (*NAACL'21*) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [[paper](https://aclanthology.org/2021.naacl-main.278/)][[code](https://github.com/google-research-datasets/KELM-corpus)]
+- (*NAACL'21*) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [[paper](https://aclanthology.org/2021.naacl-main.278/)][[code](https://github.com/google-research-datasets/KELM-corpus)]
 - (*NeurIPS'23*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]![GitHub Repo stars](https://img.shields.io/github/stars/Arthur-Heng/NLGraph?style=social)
 - (*IEEE Intelligent Systems 2023*) Integrating Graphs with Large Language Models: Methods and Prospects [[paper](https://arxiv.org/abs/2310.05499)]
 - (*ICLR'24*) Talk like a Graph: Encoding Graphs for Large Language Models [[paper](https://arxiv.org/abs/2310.04560)]
@@ -55,6 +56,8 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arxiv 2025.01*) Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning [[paper](https://arxiv.org/abs/2501.01124)]
 - (*arXiv 2025.02*) A Comprehensive Analysis on LLM-based Node Classification Algorithms [[paper](https://arxiv.org/abs/2502.00829)] [[code](https://github.com/WxxShirley/LLMNodeBed)] [[project papge](https://llmnodebed.github.io/)]![GitHub Repo stars](https://img.shields.io/github/stars/WxxShirley/LLMNodeBed?style=social)
 - (*arXiv 2025.02*) Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation [[paper](https://arxiv.org/abs/2502.18771)][[code](https://github.com/myflashbarry/LLM-benchmarking)]![GitHub Repo stars](https://img.shields.io/github/stars/myflashbarry/LLM-benchmarking?style=social)
+- (JoWS) Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective [[paper](https://www.sciencedirect.com/science/article/pii/S1570826824000301)]
+- (*arXiv 2025.05*) MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations [[paper](https://arxiv.org/abs/2505.14101)] [[code](https://github.com/ernlavr/multihal)]
 
 
 ## Prompting
